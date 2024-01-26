@@ -1,0 +1,15 @@
+
+2024-01-25 18:20:38 -0600 - root - ⬛ INFO: 
+USER: LanceHegland
+OPERATING SYSTEM: uname_result(system='Windows', node='...', release='11', version='10.0.22621', machine='AMD64')
+PYTHON VERSION:: 3.12.0
+FILE: c:\Users\LanceHegland\...\Documents\projects\apps\py_project_inventory\get_project_inventory.py
+========== STARTING ==========
+
+2024-01-25 18:20:38 -0600 - get_project_inventory - ⬛ INFO: Trying Actions…
+
+2024-01-25 18:20:45 -0600 - get_project_inventory - ⬛ INFO: 🟩 …Completed Actions.
+
+2024-01-25 18:20:45 -0600 - get_project_inventory - ⬛ INFO: 
+========== ENDING ==========
+FILE: c:\Users\LanceHegland\...\Documents\projects\apps\py_project_inventory\get_project_inventory.py

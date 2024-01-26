@@ -1,0 +1,21 @@
+# confidential testing files
+# none
+
+# temporarily saved prior version content for reference only
+ztrash
+
+# byte-compiled / optimized / DLL files
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Visual Studio Code (integrated development environment (ide)) settings
+.vscode/*
+!.vscode/settings.json
+!.vscode/tasks.json
+!.vscode/launch.json
+!.vscode/extensions.json
+!.vscode/*.code-snippets
+
+# Visual Studio Code (integrated development environment (ide)) local history
+.history/
